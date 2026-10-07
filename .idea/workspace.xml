@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d111177-eda3-48e9-87cb-ca670fd5431e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/erudio/rest_with_spring_boot_and_java_erudio/controllers/GreetingController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/erudio/rest_with_spring_boot_and_java_erudio/model/Greeting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/erudio/rest_with_spring_boot_and_java_erudio/Startup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/erudio/rest_with_spring_boot_and_java_erudio/Startup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/erudio/rest_with_spring_boot_and_java_erudio/controllers/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/erudio/rest_with_spring_boot_and_java_erudio/controllers/GreetingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/erudio/rest_with_spring_boot_and_java_erudio/model/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/erudio/rest_with_spring_boot_and_java_erudio/model/Greeting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/erudio/rest_with_spring_boot_and_java_erudio/Startup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/erudio/rest_with_spring_boot_and_java_erudio/Startup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/erudio/rest_with_spring_boot_and_java_erudio/controllers/GreetingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/erudio/rest_with_spring_boot_and_java_erudio/controllers/GreetingController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/erudio/rest_with_spring_boot_and_java_erudio/model/Greeting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/erudio/rest_with_spring_boot_and_java_erudio/model/Greeting.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
